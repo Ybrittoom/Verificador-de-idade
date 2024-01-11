@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(57, 57, 64);
+    font: normal 15pt Arial;
+}
+
+header {
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+section{
+    background: rgb(71, 5, 114);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(158, 43, 211, 0.679);
+}
+div {
+    text-align: center;
+    padding: 8px;
+    
+}
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+.d {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+
+.p {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    box-shadow: 3px 3px 3px  rgb(27, 3, 81);
+}
+
